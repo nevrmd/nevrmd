@@ -1,1 +1,2 @@
-![floppa](https://user-images.githubusercontent.com/86185862/169293493-20b135a6-91af-41f8-a25c-b079a95a0abf.jpg)
+# 📊 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=911whatsyouremergency&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)
